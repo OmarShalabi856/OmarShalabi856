@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OmarShalabi856
 - 👀 I’m interested in AI/Front End Web Development
 - 🌱 I’m currently learning React.js/Javascript ES6
-- 📫 How to reach me: omarshalabi856@gmail.com/omarshalabi1968@gmail.com
+- 📫 How to reach me: omarshalabi856@gmail.com
 
 <!---
 OmarShalabi856/OmarShalabi856 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
