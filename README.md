@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmarShalabi856
 - 👀 I’m interested in AI/Front End Web Development
-- 🌱 I’m currently learning React.js/Javascript ES6
+- 🌱 I’m currently learning Data Science 
 - 📫 How to reach me: omarshalabi856@gmail.com
 
 <!---
