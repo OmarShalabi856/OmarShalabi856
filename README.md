@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmarShalabi856
-- 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Deep Learning
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning backend development with .NET Core
 - 📫 How to reach me: omarshalabi856@gmail.com
 
 <!---
